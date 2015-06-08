@@ -1,1 +1,1 @@
-Last Update: 2015-05-14T10:00:00Z - feat: Initial project setup with React & TypeScript
+Last Update: 2015-06-08T11:00:00Z - feat: Implement basic theme context and provider
